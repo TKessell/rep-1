@@ -17,6 +17,6 @@
 - Professor: this is an assignment for this class.
 - Myself: if this project is done right, I will have proven to myself that I am capable of becoming a good programmer.
 ## Timelines
-- Week 1: establishing the limits of what the calculator can do. How far do I want to go?
-- Week 2-4: using learncpp.com, cplusplus.com, and the LVP c++ textbook to refresh my knowledge of c++.
-- Week 5-12: programming the calculator.
+- Week 1: establishing the limits of what the calculator can do. How far do I want to go? (2 hrs)
+- Week 2-4: using learncpp.com, cplusplus.com, and the LVP c++ textbook to refresh my knowledge of c++. (1-2 hrs per day as needed)
+- Week 5-12: programming the calculator. (3 hrs per week)
