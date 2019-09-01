@@ -1,5 +1,4 @@
-## Personal Project 1
-This readme serves as a log for my progress in my first personal project for Professor VanSelow. 
+## Personal Project 1 
 -------------------------------------------------------------------------------------------------
 ## Goals 
 - To create a calculator capable of graphing iterative equations like the mandelbrot set. 
