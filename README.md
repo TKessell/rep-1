@@ -1,5 +1,6 @@
-## Personal Project 1 
--------------------------------------------------------------------------------------------------
+## Personal Project 1 - Graphing Calculator 
+--------------------------
+## The Problem Statement:
 ## Goals 
 - To create a calculator capable of graphing iterative equations like the mandelbrot set. 
 ## Boundaries / Scope 
