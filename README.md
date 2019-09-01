@@ -17,5 +17,5 @@
 - Myself: if this project is done right, I will have proven to myself that I am capable of becoming a good programmer.
 ## Timelines
 - Week 1: establishing the limits of what the calculator can do. How far do I want to go?
-- Week 2-4: using learncpp.com to refresh my knowledge on math in c++.
-- Week 5-?: programming the calculator.
+- Week 2-4: using learncpp.com, cplusplus.com, and the LVP c++ textbook to refresh my knowledge of c++.
+- Week 5-12: programming the calculator.
