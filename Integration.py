@@ -14,6 +14,6 @@ print("Addition: a+b =", i+j)
 print("Multiplication: a*b =", i*j)
 print("Division with no remainder: a//b =", i//j)
 print("Powers: a**b: =", i**j)
-print("Modulus division: a%b =", i%j)
+print("Modulus (remainder) division: a%b =", i%j)
 print("All done. Shutting down... -_-")
 
