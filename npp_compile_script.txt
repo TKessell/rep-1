@@ -1,0 +1,4 @@
+npp_save
+cd $(CURRENT_DIRECTORY)
+g++  -O3  -o $(NAME_PART).exe $(FILE_NAME)  -lgdi32
+cmd /k (start $(CURRENT_DIRECTORY)\$(NAME_PART).exe) & exit 
