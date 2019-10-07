@@ -25,6 +25,7 @@ void display(double xpos = 0, double ypos = 0, double zoom = 1)
             double y0 = -(i / (double)height) * dheight + top;
             double x = 0, y = 0;
             int iter = 0;
+            //calculate the pixel's iteration
             while(x * x + y * y <= 4 && iter < maxIter)
             {
                 double xt = x * x - y * y + x0;
@@ -32,7 +33,7 @@ void display(double xpos = 0, double ypos = 0, double zoom = 1)
                 x = xt;
                 iter++;
             }
-            //if we are between 0 and 7999, color a pixel
+            //if 
             //SetPixelV takes 4 parameters: device context, x position, y position, and color
             if(iter >= maxIter - 1) 
                 SetPixelV(window, j, i, RGB(0, 0, 0));
