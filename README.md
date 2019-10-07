@@ -20,3 +20,6 @@
 - Week 1: establishing the limits of what the calculator can do. How far do I want to go? (2 hrs)
 - Week 2-4: using learncpp.com, cplusplus.com, and the LVP c++ textbook to refresh my knowledge of c++. (1-2 hrs per day as needed)
 - Week 5-12: programming the calculator. (3 hrs per week)
+
+## Inspection 2
+- I have completed reading the online tutorial on cplusplus.com, so my understanding of the language is far greater than before. I have started to program the functionality of the calculator. Variables have been set up to take input from the user and use them in the equation zn+1 = zn2 + c. The next step is to incorporate a GUI capable of actually graphing the function and making a different color for each iteration. The best possible solution to this is to use the window class. Tutorials online are not so clear as to how to do exactly what I want.
