@@ -2,12 +2,15 @@
 # Integration Project 2019
 # Uses every concept learned in COP1500 in one program
 
+
 def fact():
-    print("Did you know that if you start with one penny at the start of the month and double it every day (for thirty days), "
-          "you will end with over 5 million dollars! Here is the proof: ")
+    print("Did you know that if you start with one penny at the start of the month and double it every day (for "
+          "thirty days), you will end with over 5 million dollars! Here is the proof: ")
     x = .01
-    for x in range 30:
-      x*=2
+    for j in range(29):
+        x *= 2
+        print(x)
+
 
 def game():
     number = int(input("Enter the sum of the digits in your SSN: "))
@@ -42,9 +45,9 @@ def main():
     goAgain = True
     name = input("Welcome, what is your name? ")
     print("Hello", name + ". This is my python integration project.")
-    while goAgain == True:
+    while goAgain:
         selection = input("What would you like to do? \n 1. Find an average \n 2. Numeric operations \n 3. A cool "
-                          "numbers game.\n 4. An interesting fact about money.")
+                          "numbers game.\n 4. An interesting fact about money. ")
         if selection == "1":
             av()
         elif selection == "2":
