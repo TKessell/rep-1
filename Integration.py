@@ -5,6 +5,7 @@ __author__ = "Domenic Kessell"
 """
 
 
+# option 4
 def fact():
     print(
         "Did you know that if you start with one penny at the start of the "
@@ -16,6 +17,7 @@ def fact():
         print(x)
 
 
+# option 3
 def game():
     number = int(input("Enter the sum of the digits in your SSN: "))
     print("Doing some magic...")
@@ -29,6 +31,7 @@ def game():
     print()
 
 
+# option 2
 def ops(one, two):
     print("Subtraction: a-b =", one - two)
     print("Addition: a+b =", one + two)
@@ -39,6 +42,7 @@ def ops(one, two):
     print()
 
 
+# option 1
 def av():
     i = int(
         input("To find the average of two numbers, first enter one number: "))
