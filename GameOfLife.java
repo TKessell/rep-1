@@ -6,11 +6,11 @@ public class GameOfLife
 		//System.out.println(cells.length);
 		int gens= 3;
 		for(int i= 0;i < gens;i++)
-    {
-		  System.out.println("Generation " + i + ":");
-		  print(dish);
-		  dish= life(dish);
-    }
+    		{
+			System.out.println("Generation " + i + ":");
+			print(dish);
+			dish= life(dish);
+    		}
 	}		
 }
  
