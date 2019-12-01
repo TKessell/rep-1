@@ -14,3 +14,11 @@ public class GameOfLife
 	}		
 }
 
+public static void print(String[] cells)
+{
+	for(String s: cells)
+	{
+		System.out.println(s);
+	}
+}
+	
